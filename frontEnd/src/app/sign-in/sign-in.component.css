@@ -1,0 +1,24 @@
+.container {
+  padding-top: 25px;
+}
+.card {
+  border-radius: 0%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.card-header {
+  background-color: #2471a3;
+  color: antiquewhite;
+}
+.btn-submit {
+  width: 300px;
+  background-color: #f1c40f;
+  color: #2e4053;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
+}
+.btn-submit:hover {
+  background-color: #2e4053;
+  color: antiquewhite;
+}
